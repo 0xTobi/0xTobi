@@ -12,13 +12,18 @@ I'm a Software Engineer, and UI/UX designer, who currently works as the lead des
 💡 Fun facts:
 
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
-- 🎨I'm currently the lead UI designer for [Dotcircle-solutions](https://www.dotcirclesolutions.com)
+- 🎨 I'm currently the lead UI designer for [Dotcircle-solutions](https://www.dotcirclesolutions.com)
 - 🐳 Huge fan of WEB 3.0
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Frontend Engineer, or UI designer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing tobytopg@gmail.com.
 
 ---
+
+<p>
+<h2>🏆 Github Trophy </h2>
+<img src="https://github-profile-trophy.vercel.app/?username=0xTobi">
+</p>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xTobi&show_icons=true&include_all_commits=true&hide_border=true" alt="Tobi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xTobi&langs_count=8&layout=compact&hide_border=true" alt="Tobi's GitHub stats" /> |
 | ------------- | ------------- |
